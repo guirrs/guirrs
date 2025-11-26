@@ -1,7 +1,8 @@
 <h2 align="left">Bom dia👋 Sou o Guilherme</h2>
 
 ###
-
+<div align="center">
+  
 ![](https://github-readme-stats.vercel.app/api?username=guirrs&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=guirrs&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=guirrs&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
@@ -31,16 +32,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
 </div>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
-
-###
 
 <p align="left">
 ### 🤝 Entre em Contato!<br><br>* **LinkedIn:** https://www.linkedin.com/in/guilherme-ribeiro-dos-santos-662798382</p>
