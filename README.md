@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🎓 Estou fazendo técnico em Desenvolvimento de Sistemas no Senai<br>💼 Visando me tornar um desenvolvedor Backend<br>🎯 Foco atual: TypeScript, .NET, AWS</p>
+<p align="left">🎓 Estou fazendo técnico em Desenvolvimento de Sistemas no Senai<br>💼 Visando me tornar um desenvolvedor FullStack<br>🎯 Foco atual: TypeScript, .NET, AWS</p>
 
 ###
 
